@@ -40,7 +40,7 @@ import {
 
 ## Usage
 
-In Accordion parent element, `type` prop is mandatory as it decides whether a `single` item or `multiple` items can be expanded/collapsed at a same time.
+In Accordion parent element, `type` prop is mandatory as it decides whether a `single` item or `multiple` items can be expanded/collapsed at the same time.
 
 {% example  %}
 
@@ -69,7 +69,7 @@ In Accordion parent element, `type` prop is mandatory as it decides whether a `s
 
 ## Collapsible
 
-when using type `single`, the `collapsible` prop allows closing content when clicking trigger for an open item otherwise one accordion item remains open by default.
+when using type `single`, the `collapsible` prop allows closing content by clicking the trigger for an open item otherwise one accordion item remains open by default.
 
 {% example  %}
 

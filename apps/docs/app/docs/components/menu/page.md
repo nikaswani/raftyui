@@ -266,7 +266,7 @@ Pass `isUnstyled` prop in parent component to remove style in Menu.
 
 ## UnStyled subcomponent
 
-Pass `isUnstyled` prop in a particular subcomponent to remove style from that sub component.
+ To remove styles from a specific sub component pass `isUnstyled` prop to that particular subcomponent.
 
 {% example %}
 

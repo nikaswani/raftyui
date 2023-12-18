@@ -201,7 +201,7 @@ function PaginationField() {
 
 ## PaginationButtons
 
-PaginationButtons containes previous and next buttons which helps in navigating to previous and next page, with the functionality of being disable when on first or last page to not navigate further ahead or behind of the limit.
+PaginationButtons component containes previous and next buttons facilitating navigation to the previous and next pages. The buttons are disabled when on the first or last page to prevent navigating beyond the limits.
 
 {% example %}
 
